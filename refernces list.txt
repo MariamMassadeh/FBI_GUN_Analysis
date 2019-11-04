@@ -1,0 +1,8 @@
+https://stackoverflow.com/
+https://pandas.pydata.org/pandas-docs/stable/index.html#
+https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4
+https://github.com/matplotlib/matplotlib/blob/2eb0023205c46b24f23a3b767b07b2b14127f272/lib/matplotlib/pyplot.py#L1376
+https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/#loc-selection
+https://www.geeksforgeeks.org/python-programming-language/
+https://github.com/Alicelibinguo/Investigate-FBI-Gun-Data
+https://github.com/Shilin-Li/Investigate_the_FBI_Gun_Dataset/blob/master/README.md
